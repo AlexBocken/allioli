@@ -47,6 +47,16 @@ allioli can be built by cloning the repository and then running make:
     sudo make install
 ```
 
+### AUR
+
+if you're running an arch-based distro you can get bibel from the AUR.
+so for example using yay, it's a simple
+
+```bash
+    yay -S allioli
+```
+
+
 ## Similar projects
 
 My work, as already stated, is mostly based on the source code of [Bontibon's kjv](https://github.com/bontibon/kjv).
