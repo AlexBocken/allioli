@@ -57,6 +57,11 @@ so for example using yay, it's a simple
 ```
 
 
+## Current state of project
+
+You might notice the two books, 'Ester' and 'xEster'.
+The significance of this mark left over from the original XML this project has started from will be invistigated in the coming months.
+
 ## Similar projects
 
 My work, as already stated, is mostly based on the source code of [Bontibon's kjv](https://github.com/bontibon/kjv).
